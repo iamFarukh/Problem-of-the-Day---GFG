@@ -1,3 +1,3 @@
 # Problem-of-the-Day---GFG
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1OwWpMeXActY6suoZZKUds8XD6wBtmwDL/view?usp=sharing))
+![alt text](https://github.com/iamFarukh/Color-Detection-/blob/master/Color_detection/Screenshot%202022-06-07%20172434.png))
