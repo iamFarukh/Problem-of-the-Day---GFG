@@ -1,0 +1,10 @@
+ int canReach(int A[], int N) {
+       // code here
+       int till_here=-1;
+       for(int i=0;i<N-1;i++)
+       {
+           till_here = max(A[i],till_here-1);
+           if(till_here==0) return 0;
+       }
+       return 1;
+   }
